@@ -1,0 +1,6 @@
+body {
+	@apply text-base;
+	@apply font-medium;
+	font-family: 'Work Sans', sans-serif;
+	@apply antialiased;
+}
